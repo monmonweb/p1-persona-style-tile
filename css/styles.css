@@ -1,8 +1,8 @@
 /***************/
 /* YOUR STYLES */
 /***************/
-
-@import url(https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700italic,700);
+@import url(https://fonts.googleapis.com/css?family=Candal);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,300italic,400italic,500);
 
 /* Color Palette */
 .color-1 {
@@ -32,13 +32,58 @@
 
 
 /* Imagery */
+.imagery-1 {
+ padding: 6px;
+border: none;
+}
 
+.imagery-2 {
+ padding: 6px;
+}
+.imagery-3 {
+ padding: 6px;
+}
+.imagery-4 {
+ padding: 6px;
+}
+.imagery-5 {
+ padding: 6px;
+}
 
 /* Icons */
 
+.icon-1 {
+    border: none;
+}
+.icon-2 {
+    border: none;
+}
+.icon-3 {
+    border: none;
+}
+.icon-4 {
+    border: none;
+}
+.icon-5 {
+    border: none;
+}
 
 /* Navigation */
 
 
 /* Typography */
+h2 {
+font-family: 'Candal', sans-serif;
+    font-size: 1.6em;
+    letter-spacing: .08em;
+}
+
+h3 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+}
+
+p {
+font-family: 'Fira Sans', sans-serif; 
+}
 
