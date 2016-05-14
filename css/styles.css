@@ -2,9 +2,32 @@
 /* YOUR STYLES */
 /***************/
 
+@import url(https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700italic,700);
+
 /* Color Palette */
+.color-1 {
+    background: #3F3E47;
+    border: none;
+}
+.color-2 {
+    background: #3B6047;
+    border: none;
+}
 
+.color-3 {
+    background: #5D7175;
+    border: none;
+}
 
+.color-4 {
+    background: #2AA1CC;
+    border: none;
+}
+
+.color-5 {
+    background: white;
+    
+}
 /* Textures or Patterns*/
 
 
